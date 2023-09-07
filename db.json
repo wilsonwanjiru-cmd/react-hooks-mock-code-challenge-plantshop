@@ -4,43 +4,90 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "isSoldOut": true
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "isSoldOut": true
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.99,
+      "isSoldOut": true
     },
     {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": 12.11,
+      "isSoldOut": true
     },
     {
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "isSoldOut": true
     },
     {
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": 25.99,
+      "isSoldOut": true
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 55,
+      "isSoldOut": true
+    },
+    {
+      "name": "Aloe",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": "-0.01",
+      "id": 8,
+      "isSoldOut": true
+    },
+    {
+      "name": "Aloe",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": "-0.01",
+      "id": 9,
+      "isSoldOut": true
+    },
+    {
+      "name": "Aloe",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": "-0.01",
+      "id": 10
+    },
+    {
+      "name": "Aloe",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": "10",
+      "id": 11,
+      "isSoldOut": true
+    },
+    {
+      "name": "Tea",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F956366756%2Fphoto%2Ftree-growth-three-steps-in-nature-and-beautiful-morning-lighting.webp%3Fb%3D1%26s%3D170667a%26w%3D0%26k%3D20%26c%3DdruZqXAV8j3JN_s2JoEjyxoz_rR2-nmQSoDmwK5s26w%3D&tbnid=4Cq2XWkYrP6SkM&vet=12ahUKEwjBwbemv5iBAxU0mCcCHR2cCrMQMyhMegUIARD_AQ..i&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgreen-plant&docid=DajBlwPjmlhUhM&w=509&h=339&q=unsplash%20plant&ved=2ahUKEwjBwbemv5iBAxU0mCcCHR2cCrMQMyhMegUIARD_AQ",
+      "price": "10",
+      "id": 12,
+      "isSoldOut": true
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": 0,
+      "id": 13
     }
   ]
 }
